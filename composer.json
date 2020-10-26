@@ -1,0 +1,18 @@
+{
+    "name": "saiful/contact",
+    "description": "this will send email to admin and save to database",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SaifulCse",
+            "email": "saifultechie@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "saiful\\contact\\": "src/"
+        }
+    }
+}
